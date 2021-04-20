@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allwyn9895
+- 👋 Hi, I’m Allwyn Menezes
 - 👀 I’m interested in Embedded Systems Software Development and Web Development.
 - 🌱 I’m currently finding myself.
 - 💞️ I’m looking to collaborate on Open Source Developement and Practicing Programming languages
