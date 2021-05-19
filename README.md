@@ -3,7 +3,7 @@
 - 🌱 Ich befinde mich derzeit in der Selbstfindung.
 - 💞️ Ich möchte an der Open Source Entwicklung mitarbeiten und Programmiersprachen üben und ein besserer Programmierer werden.
 
-My simple website -> 
+
 https://allwyn9895.github.io/Portfolio-Allwyn-Menezes/
 
 <!---
